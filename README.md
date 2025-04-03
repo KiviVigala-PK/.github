@@ -1,0 +1,2 @@
+# .github
+Avaliku vaate repositoorium
